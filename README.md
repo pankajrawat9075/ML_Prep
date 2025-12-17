@@ -11,7 +11,7 @@
 7. [Graph Neural Networks](#graph-neural-networks)
 8. [GPU Programming](#gpu-programming)
 9. [ML Systems](#ml-systems)
-10. [Other Resources](#other-resources)
+10. [Other Useful Resources](#other-useful-resources)
 
 ## Fundamentals
 ### Learn Programming
@@ -81,7 +81,8 @@ Prof. Rupesh Nasre, IITM [Playlist](https://youtube.com/playlist?list=PL4YhK0pT0
 [Stanford](https://youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&si=P4MgDnhHReTFp7Lu)  
 [ML System Design](https://www.amazon.fr/Machine-Learning-System-Design-Interview/dp/1736049127)
 
-## Other Resources
+## Other Useful Resources
+[Andrej Karpathy - Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=mSjDQ5faywFq5FTm): don't watch because it's addictive  
 [Fast AI Deeplearning Course](https://course.fast.ai/): Best for DL, NLP and Diffusion  
 [Stanford Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=vWJwGE75ta8oNqNK)
 
