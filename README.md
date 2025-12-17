@@ -82,7 +82,8 @@ Prof. Rupesh Nasre, IITM [Playlist](https://youtube.com/playlist?list=PL4YhK0pT0
 [ML System Design](https://www.amazon.fr/Machine-Learning-System-Design-Interview/dp/1736049127)
 
 ## Other Resources
-[stanford Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=vWJwGE75ta8oNqNK)
+[Fast AI Deeplearning Course](https://course.fast.ai/): Best for DL, NLP and Diffusion  
+[Stanford Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=vWJwGE75ta8oNqNK)
 
 ---
 
