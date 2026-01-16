@@ -11,7 +11,9 @@
 7. [Graph Neural Networks](#graph-neural-networks)
 8. [GPU Programming](#gpu-programming)
 9. [ML Systems](#ml-systems)
-10. [Other Useful Resources](#other-useful-resources)
+10. [RAG](#rag)
+11. [AI Agents](#ai-agents)
+12. [Other Useful Resources](#other-useful-resources)
 
 ## Fundamentals
 ### Learn Programming
@@ -80,6 +82,15 @@ Prof. Rupesh Nasre, IITM [Playlist](https://youtube.com/playlist?list=PL4YhK0pT0
 ## ML Systems
 [Stanford](https://youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&si=P4MgDnhHReTFp7Lu)  
 [ML System Design](https://www.amazon.fr/Machine-Learning-System-Design-Interview/dp/1736049127)
+
+## RAG
+[Langchain Official playlist](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=7BqID2nv-2K63NU_)
+
+## AI Agents
+Don't learn langChain, just start with langGraph  
+[Langchain Official course](https://academy.langchain.com/courses/intro-to-langgraph)  
+[Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph)  
+[Deep Agents](https://academy.langchain.com/courses/deep-agents-with-langgraph)  
 
 ## Other Useful Resources
 [Andrej Karpathy - Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=mSjDQ5faywFq5FTm): don't watch because it's addictive  
