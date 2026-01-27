@@ -95,7 +95,8 @@ Don't learn langChain, just start with langGraph
 ## Other Useful Resources
 [Andrej Karpathy - Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=mSjDQ5faywFq5FTm): don't watch because it's addictive  
 [Fast AI Deeplearning Course](https://course.fast.ai/): Best for DL, NLP and Diffusion  
-[Stanford Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=vWJwGE75ta8oNqNK)
+[Stanford Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=vWJwGE75ta8oNqNK)  
+[Deep Learning Practice | Prof. Mitesh](https://youtube.com/playlist?list=PLZ2ps__7DhBboCdRjlzBGldokL4VCgaam&si=damt77BUuUxH0HDX)  
 
 ---
 
