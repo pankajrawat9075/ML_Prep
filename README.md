@@ -68,8 +68,9 @@ Hon. Mention
 [Couse website](https://stanford-cs336.github.io/spring2025/)
 
 ## Reinforcement Learning
+Prof. Balaraman Ravindran, IIT Madras [playlist](https://youtube.com/playlist?list=PLZ2ps__7DhBbDiVplM2I9q2XNso1Qfj62&si=EAclM6xEb2z8qG5p)  
 OG David Silver [playlist](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=oMn-E1VLjxrjkCsM)  
-Pieter Abbeel [playlist](https://youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0&si=qKW5sfCSKPnz0VGa)
+Pieter Abbeel [playlist](https://youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0&si=qKW5sfCSKPnz0VGa)  
 
 ## Graph Neural Networks
 [Stanford](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=FE8Shc6gPXD9PKLk)  
