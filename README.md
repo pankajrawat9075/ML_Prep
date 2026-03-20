@@ -89,6 +89,7 @@ Prof. Rupesh Nasre, IITM [Playlist](https://youtube.com/playlist?list=PL4YhK0pT0
 
 ## AI Agents
 Don't learn langChain, just start with langGraph  
+[Foundation: Introduction to LangChain Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python)  
 [Langchain Official course](https://academy.langchain.com/courses/intro-to-langgraph)  
 [Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph)  
 [Deep Agents](https://academy.langchain.com/courses/deep-agents-with-langgraph)  
